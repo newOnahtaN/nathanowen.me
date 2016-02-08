@@ -1,2 +1,2 @@
 # Personal Website
-### Can be found at nateo.co or nathanowen.me
+## Can be found at nateo.co or nathanowen.me
